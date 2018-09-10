@@ -1,6 +1,6 @@
 # Shopify app store analysis
 
-Quick & Simple analysis of Shopify's app store (from data scraped and uploaded to Reddit).
+Quick & Simple analysis of Shopify's app store (from data scraped and uploaded to [Reddit](https://www.reddit.com/r/datasets/comments/9939fq/shopify_app_marketplace_dataset_2505_apps_253495/) and originally posted at this [link](https://sanjeevan.co.uk/blog/shopify-apps-and-reviews-dataset/)).
 
 ## What is it?
 
